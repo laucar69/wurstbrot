@@ -18,4 +18,4 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} (should be dev)
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} (should be dev)"
